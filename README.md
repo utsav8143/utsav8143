@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=utsav8143&icon=3&color=2ecc71&style=flat-square" alt="Profile views" />
-  <a href="https://linkedin.com/in/utsav8143"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="[https://linkedin.com/in/utsav8143](https://www.linkedin.com/in/utsav-tiwari-4698aa236/)"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:utsav8143@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -75,7 +75,7 @@ WebSockets at scale, real-time data broadcasting patterns, and cloud deployment 
 ### 🤝 Let's connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/utsav8143"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="[https://linkedin.com/in/utsav8143](https://www.linkedin.com/in/utsav-tiwari-4698aa236/)"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:utsav8143@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
