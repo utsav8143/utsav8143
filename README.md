@@ -54,14 +54,6 @@ WebSockets at scale, real-time data broadcasting patterns, and cloud deployment 
 
 ---
 
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=utsav8143&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
-</p>
-
----
-
 ### 📈 Contribution Snake
 
 <p align="center">
