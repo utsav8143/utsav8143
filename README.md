@@ -1,12 +1,15 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2ECC71&height=200&section=header&text=Hi%20There!%20I'm%20Utsav%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
+
 <h3 align="center">A full-stack developer crafting real-time web experiences</h3>
+
 <p align="center">
   <a href="https://linkedin.com/in/utsav8143">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Building+real-time+apps+with+Socket.IO;Node.js+%7C+Express+%7C+MongoDB;Always+learning%2C+always+shipping." alt="Typing SVG" />
   </a>
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=utsav8143&icon=3&color=2ecc71&style=flat-square" alt="Profile views" />
   <a href="https://linkedin.com/in/utsav8143"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" /></a>
@@ -54,16 +57,25 @@ WebSockets at scale, real-time data broadcasting patterns, and cloud deployment 
 
 ---
 
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=utsav8143&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
+</p>
+
+---
+
 ### 📈 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/utsav8143/utsav8143/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/utsav8143/utsav8143/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/utsav8143/utsav8143/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/utsav8143/utsav8143/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
-<!--
-  ⬆️ This snake animation needs a one-time GitHub Actions setup — see the
-  "How to enable the snake animation" note at the bottom of this file.
--->
+
 
 ---
 
@@ -76,10 +88,3 @@ WebSockets at scale, real-time data broadcasting patterns, and cloud deployment 
 
 <p align="center"><i>Thanks for stopping by! ⭐ my repos if you find something useful.</i></p>
 
-<!--
-  📌 How to enable the snake animation above:
-  1. In your utsav8143/utsav8143 repo, go to Settings → Actions → General → enable Actions
-  2. Create .github/workflows/snake.yml with the Platane/snk action (search "github contribution snake action" for the exact YAML)
-  3. Push to main — it generates the animated SVG referenced above automatically on a schedule
-  If you skip this step, just delete the "Contribution Snake" section.
--->
