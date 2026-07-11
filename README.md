@@ -1,5 +1,3 @@
-<h1 align="center">Hi ![Header](https://capsule-render.vercel.app/api?type=waving&color=2ECC71&height=200&section=header&text=Hi%20There!&fontSize=40), I'm Utsav</h1>
-<h3 align="center">A full-stack developer crafting real-time web experiences</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/utsav8143">
