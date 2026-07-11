@@ -8,6 +8,15 @@
 </p>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2ECC71&height=200&section=header&text=Hi%20There!%20I'm%20Utsav%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+<h3 align="center">A full-stack developer crafting real-time web experiences</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/utsav8143">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Building+real-time+apps+with+Socket.IO;Node.js+%7C+Express+%7C+MongoDB;Always+learning%2C+always+shipping." alt="Typing SVG" />
+  </a>
+</p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=utsav8143&icon=3&color=2ecc71&style=flat-square" alt="Profile views" />
   <a href="https://linkedin.com/in/utsav8143"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:utsav8143@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
