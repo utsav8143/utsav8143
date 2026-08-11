@@ -4,8 +4,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=900&color=22C55E&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer+%F0%9F%9A%80;React+%E2%80%A2+Node.js+%E2%80%A2+Express+%E2%80%A2+MongoDB;Real-time+Apps+with+Socket.io;AI+Features+with+Gemini+API;Deploying+on+Vercel+%26+Render" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-15803D?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-utsav10.vercel.app/#home)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-16A34A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utsav-tiwari-4698aa236/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-15803D?style=for-the-badge&logo=vercel&logoColor=white)]([https://portfolio-utsav10.vercel.app/#home](https://portfolio-auy1.onrender.com/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-16A34A?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/utsav-tiwari-4698aa236/](https://www.linkedin.com/in/utsav-tiwari-4698aa236/))
 [![Location](https://img.shields.io/badge/Noida-166534?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 <img src="https://komarev.com/ghpvc/?username=utsav8143&style=for-the-badge&color=22C55E" alt="Profile views"/>
@@ -65,6 +65,16 @@
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=utsav8143&bg_color=0d1117&color=22C55E&line=22C55E&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/utsav8143/utsav8143/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
