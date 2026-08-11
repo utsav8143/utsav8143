@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Utsav%20Tiwari&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20|%20Socket.io%20|%20Gemini%20API&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D3B24,50:16A34A,100:86EFAC&height=220&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Utsav%20Tiwari&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20|%20Socket.io%20|%20Gemini%20API&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer+%F0%9F%9A%80;React+%E2%80%A2+Node.js+%E2%80%A2+Express+%E2%80%A2+MongoDB;Real-time+Apps+with+Socket.io;AI+Features+with+Gemini+API;Deploying+on+Vercel+%26+Render" alt="Typing SVG" />
 
@@ -51,10 +51,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=utsav8143&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsav8143&layout=compact&theme=chartreuse-dark&hide_border=true" width="35%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=utsav8143&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=22C55E&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsav8143&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=c9d1d9&langs_count=8" width="35%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=utsav8143&theme=chartreuse-dark&hide_border=true" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=utsav8143&theme=dark&hide_border=true&background=0D1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" width="60%"/>
 
 </div>
 
@@ -64,7 +64,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=utsav8143&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=utsav8143&bg_color=0d1117&color=22C55E&line=22C55E&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -92,6 +92,6 @@
 
 ⭐ **Thanks for visiting my profile!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D3B24,50:16A34A,100:86EFAC&height=120&section=footer" width="100%"/>
 
 </div>
