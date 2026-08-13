@@ -36,5 +36,25 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add assets/streak-stats.svg assets/contribution-graph.svg
-          git diff --cached --quiet && echo "No changes to commit" || git commit -m "chore: update streak and contribution graph"
-          git push
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git commit -m "chore: update streak and contribution graph"
+
+          # Another workflow (e.g. snake.yml) may push to main around the
+          # same time. Retry with rebase a few times before giving up.
+          for i in 1 2 3 4 5; do
+            if git push; then
+              echo "Pushed successfully"
+              exit 0
+            fi
+            echo "Push rejected, retrying ($i/5)..."
+            git pull --rebase origin main
+            sleep $((RANDOM % 10 + 1))
+          done
+
+          echo "Failed to push after retries"
+          exit 1
