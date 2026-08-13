@@ -18,7 +18,7 @@
 </style>
 <rect class="card" x="0.5" y="0.5" width="699" height="199" rx="10" fill="var(--bg)" stroke="var(--border)"/>
 <g class="card" text-anchor="middle">
-  <text x="116" y="70" class="num">115</text>
+  <text x="116" y="70" class="num">117</text>
   <text x="116" y="96" class="label">Total Contributions</text>
   <text x="116" y="118" class="sub">Aug 10, 2025 – Aug 13, 2026</text>
 
