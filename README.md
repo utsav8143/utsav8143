@@ -61,12 +61,8 @@
 ---
 
 ### 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=utsav8143&bg_color=0d1117&color=22C55E&line=22C55E&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
+![Streak stats](./assets/streak-stats.svg)
+   ![Contribution graph](./assets/contribution-graph.svg)
 
 ---
 
