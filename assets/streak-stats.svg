@@ -1,0 +1,38 @@
+<svg width="700" height="200" viewBox="0 0 700 200" xmlns="http://www.w3.org/2000/svg">
+<style>
+  :root {
+    --bg: #ffffff; --border: #d8dee4; --title: #24292f;
+    --num: #E2711D; --label: #57606a; --sub: #8b949e; --divider: #d8dee4;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0d1117; --border: #30363d; --title: #e6edf3;
+      --num: #f0883e; --label: #8b949e; --sub: #6e7681; --divider: #30363d;
+    }
+  }
+  .card { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+  .num { font-size: 34px; font-weight: 700; fill: var(--num); }
+  .label { font-size: 13px; font-weight: 600; fill: var(--label); text-transform: uppercase; letter-spacing: 0.04em; }
+  .sub { font-size: 12px; fill: var(--sub); }
+  .title { font-size: 13px; font-weight: 700; fill: var(--title); }
+</style>
+<rect class="card" x="0.5" y="0.5" width="699" height="199" rx="10" fill="var(--bg)" stroke="var(--border)"/>
+<g class="card" text-anchor="middle">
+  <text x="116" y="70" class="num">115</text>
+  <text x="116" y="96" class="label">Total Contributions</text>
+  <text x="116" y="118" class="sub">Aug 10, 2025 – Aug 13, 2026</text>
+
+  <line x1="233" y1="34" x2="233" y2="166" stroke="var(--divider)" stroke-width="1"/>
+
+  <text x="350" y="46" class="title">🔥 Current Streak</text>
+  <text x="350" y="90" class="num">1</text>
+  <text x="350" y="112" class="label">Days</text>
+  <text x="350" y="132" class="sub">Aug 13, 2026</text>
+
+  <line x1="467" y1="34" x2="467" y2="166" stroke="var(--divider)" stroke-width="1"/>
+
+  <text x="584" y="70" class="num">11</text>
+  <text x="584" y="96" class="label">Longest Streak</text>
+  <text x="584" y="118" class="sub">Jul 8 – Jul 18, 2026</text>
+</g>
+</svg>
