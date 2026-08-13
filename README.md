@@ -60,9 +60,7 @@
 
 ---
 
-### 📈 Contribution Graph
-![Streak stats](./assets/streak-stats.svg)
-   ![Contribution graph](./assets/contribution-graph.svg)
+
 
 ---
 
