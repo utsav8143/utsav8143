@@ -18,16 +18,16 @@
 </style>
 <rect class="card" x="0.5" y="0.5" width="699" height="199" rx="10" fill="var(--bg)" stroke="var(--border)"/>
 <g class="card" text-anchor="middle">
-  <text x="116" y="70" class="num">143</text>
+  <text x="116" y="70" class="num">145</text>
   <text x="116" y="96" class="label">Total Contributions</text>
-  <text x="116" y="118" class="sub">Aug 31, 2025 – Sep 3, 2026</text>
+  <text x="116" y="118" class="sub">Aug 31, 2025 – Sep 4, 2026</text>
 
   <line x1="233" y1="34" x2="233" y2="166" stroke="var(--divider)" stroke-width="1"/>
 
   <text x="350" y="46" class="title">🔥 Current Streak</text>
-  <text x="350" y="90" class="num">5</text>
+  <text x="350" y="90" class="num">7</text>
   <text x="350" y="112" class="label">Days</text>
-  <text x="350" y="132" class="sub">Aug 29 – Sep 2, 2026</text>
+  <text x="350" y="132" class="sub">Aug 29 – Sep 4, 2026</text>
 
   <line x1="467" y1="34" x2="467" y2="166" stroke="var(--divider)" stroke-width="1"/>
 
